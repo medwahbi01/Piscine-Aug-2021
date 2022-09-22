@@ -1,0 +1,6 @@
+Credentials cache: API:1A8A61A6-EA27-4C8C-8AF3-AB9DC608EF74
+        Principal: mwahbi@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 14:02:31 2021  Aug  3 00:02:31 2021  krbtgt/1337.MA@1337.MA
+Aug  2 14:02:33 2021  Aug  3 00:02:31 2021  HTTP/iscsi.1337.ma@1337.MA
